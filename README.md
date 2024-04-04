@@ -31,7 +31,7 @@ You can contact me with below app.😄
 </p>
 
 <p align="center">
-Programming Language
+Some Tools I Haved used and learned
 </p>
 <p align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
