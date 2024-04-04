@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-You can contact me with below app.😄
+You can reach me with below app.📫
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan0511/">
@@ -31,7 +31,7 @@ You can contact me with below app.😄
 </p>
 
 <p align="center">
-Some Tools I Haved used and learned
+Some Tools I Haved used and learned⚡
 </p>
 <p align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -45,7 +45,7 @@ Some Tools I Haved used and learned
 </p>
 
 <p align="center">
-Still working on
+Still Learning🌱
 </p>
         
 <p align="center">
