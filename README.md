@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 You can reach me with below app.📫
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryan0511/">
+  <a href="www.linkedin.com/in/kunhanl0511">
     <img height="50" src="https://github.com/leekunhan/leekunhan/assets/85284680/0970f876-5a53-4e54-9a59-55bae23209ec"/>
   </a>
-  <a href="https://www.instagram.com/ryan.lee_6/">
+  <a href="https://www.instagram.com/kunhanl_/">
     <img height="50" src="https://github.com/leekunhan/leekunhan/assets/85284680/28e9eed0-9c7a-42d2-8951-7ed457665474"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100007442648020">
