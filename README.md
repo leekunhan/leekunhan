@@ -60,3 +60,6 @@ You can reach me with below app.📫
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://api.githubtrends.io/user/svg/leekunhan/langs?time_range=one_year&compact=True&theme=dark" />
+
+[![GitHub Trends SVG](https://api.githubtrends.io/leekunhan/svg/avgupta456/langs)](https://githubtrends.io)
