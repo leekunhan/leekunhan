@@ -62,6 +62,6 @@ You can reach me with below app.📫
 </p> 
 
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/leekunhan/langs?time_range=one_year&compact=True&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=leekunhan&theme=apprentice" />
+  <img height="200"  src="https://api.githubtrends.io/user/svg/leekunhan/langs?time_range=one_year&compact=True&theme=dark" />
+  <img height="200"  src="https://github-readme-stats.vercel.app/api?username=leekunhan&theme=apprentice" />
 </p> 
