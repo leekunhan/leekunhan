@@ -6,11 +6,12 @@ status: https://github.com/anuraghazra/github-readme-stats/tree/master
 GPRM : https://gprm.itsvg.in
 -->
 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
 ## 🌐 Socials:
 
 <p align="center">
+  <a href="https://www.nvidia.com/zh-tw/">
+    <img height="30" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/kunhanl0511">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
